@@ -8,4 +8,4 @@ En este artículo de Digital Ocean explican cómo hacerlo : [Ayuda](https://www.
 
 ## Solución
 
-Solución por cortesía de [Jonathan Ruiz](https://github.com/Cynox336/centra-el-gato) 
+Usando flex,  solución por cortesía de [Jonathan Ruiz](https://github.com/Cynox336/centra-el-gato) 
